@@ -8,15 +8,15 @@ This repository consists some of the android sample.
 
 #Topic covered
 
-1) Async Task
-2) doInBackground method override
-3) Exceptions and Buffered Reader 
-4) Security Exceptions
-5) Android App Permissions (Marshmallow) 
-6) ListView and ArrayAdapter
-7) Custom Adapter Implementation 
-8) Menu Items and Groups 
-9) Done
+*) Async Task
+*) doInBackground method override
+*) Exceptions and Buffered Reader 
+*) Security Exceptions
+*) Android App Permissions (Marshmallow) 
+*) ListView and ArrayAdapter
+*) Custom Adapter Implementation 
+*) Menu Items and Groups 
+*) Done
 
 
 #Using Array Adapter and List view
